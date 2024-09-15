@@ -1,3 +1,3 @@
 hiii
 my new testing of feature branch
-new line of master branch
+new line Updated from featured branch
